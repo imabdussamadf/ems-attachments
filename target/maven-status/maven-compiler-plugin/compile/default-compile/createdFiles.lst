@@ -1,0 +1,5 @@
+com\kudasa\ems\attachment\CorsFilter.class
+com\kudasa\ems\attachment\entity\Attachment.class
+com\kudasa\ems\attachment\boundary\AttachmentResource.class
+com\kudasa\ems\attachment\JaxrsConfig.class
+com\kudasa\ems\attachment\control\AttachmentService.class
